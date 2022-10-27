@@ -20,9 +20,10 @@ body{
 
 main{
     height: 100vh;
-    position: relative;
+   position: relative;
     
 }
+
 
 #telefone{
     position: absolute;
